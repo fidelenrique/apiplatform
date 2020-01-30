@@ -19,7 +19,7 @@ body {
 
 .welcome a {
     text-decoration: none;
-    color: #38a9b4;
+    color: #36A9E0;
     font-weight: bold;
 }
 
@@ -33,7 +33,7 @@ body {
 
 .welcome h1 strong {
     font-weight: 700;
-    color: #38a9b4;
+    color: #9F1B32;
 }
 
 .welcome h2 {
@@ -46,7 +46,7 @@ body {
 .welcome h3 {
     text-transform: uppercase;
     font-weight: 500;
-    color: #38a9b4;
+    color: #36A9E0;
     font-size: 16px;
     margin: 0 0 5px;
     display: block;
@@ -55,7 +55,7 @@ body {
 /***** TOP *****/
 
 .welcome__top {
-    background-color: #67cece;
+    background-color: #4891DC;
     padding-bottom: 40px;
 }
 
@@ -72,7 +72,7 @@ body {
 
 .welcome__main {
     box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.14),
-        0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.3);
+    0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.3);
     width: 80%;
     max-width: 1100px;
     margin-left: auto;
@@ -83,7 +83,7 @@ body {
 }
 
 .main__aside {
-    background-color: #afe5e5;
+    background-color: #85c1ff;
     width: 30%;
     position: relative;
     overflow: hidden;
@@ -141,20 +141,20 @@ body {
 }
 
 .other__bloc h3:not(:first-child) {
-  margin-top: 15px;
-  padding-top: 5px;
+    margin-top: 15px;
+    padding-top: 5px;
 }
 
 .other__circle {
     width: 110px;
     height: 110px;
-    background-color: #afe5e5;
+    background-color: #85c1ff;
     border-radius: 50%;
     margin-right:20px;
 }
 
 .other__circle svg{
-  width: 110px;
+    width: 110px;
 }
 
 .buttons__group {
@@ -271,14 +271,14 @@ a.other__button {
 }
 
 .help__circle svg {
-  position:absolute;
-  left: 50%;
-  top: 50%;
-  transform:translate(-50%, -50%);
+    position:absolute;
+    left: 50%;
+    top: 50%;
+    transform:translate(-50%, -50%);
 }
 
 .help__circle:hover {
-    border-color: #67cece;
+    border-color: #4891DC;
     background-color: #afe5e5;
 }
 
